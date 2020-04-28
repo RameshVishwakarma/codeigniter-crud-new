@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Crud Applicaton - Create User</title>
+	<title>Crud Applicaton - Create User...</title>
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url().'assets/css/bootstrap.min.css';?>">
 </head>
 <body>
